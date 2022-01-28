@@ -1,34 +1,33 @@
 # tdd-in-vue
 
-## Project setup
+Usage of outside-in TDD in Vue 2
+
+## Setup
 ```
-yarn install
+yarn
 ```
 
-### Compiles and hot-reloads for development
+### Running
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Production build
 ```
 yarn build
 ```
 
-### Run your unit tests
+### Unit tests
 ```
 yarn test:unit
 ```
 
-### Run your end-to-end tests
+### E2E tests
 ```
 yarn test:e2e
 ```
 
-### Lints and fixes files
+### Lint
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
